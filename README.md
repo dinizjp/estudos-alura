@@ -1,2 +1,2 @@
 # estudos-alura
-Estudos iniciais para Datascience
+# Estudos iniciais para Datascience
